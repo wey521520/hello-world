@@ -1,8 +1,6 @@
 hello-world
 ===========
 
-just another repository
-
 Hi Humens!
 
 Wey521520 here, I like Node.js and Coffeescript (that's what I'm made of!).
